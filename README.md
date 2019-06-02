@@ -10,7 +10,7 @@ Should work with either python2 or python3.
 ### Example usage:
 
 ```
-	% i./cert_decode.py testcert.pem 
+	% ./cert_decode.py testcert.pem 
 	Cert A53B46070E3B110D issued to 'www.example.com' is valid for 3649 more days
 ```
 
